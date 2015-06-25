@@ -1,0 +1,1 @@
+$(".user-gravatar32").css("border-radius", "200px");
